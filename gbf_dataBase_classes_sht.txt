@@ -1,0 +1,108 @@
+CONCRETE TYPES: vehicle
+
+  visual:
+  
+    figure: 
+      image: QUALITATIVE. Resembles something concrete.
+        picture: captured image (direct extraction).
+          photograph: taken by external camera.
+          print: captured by a screen print from a smartphone or laptop.
+
+        map: image achieved indirectly (data_extractions, calculations, etc.).
+          raw_map~: non-technical (sometimes anamorphic or abstract).
+            mental_map~: flux-like map.
+            treasure_map~:
+
+        diagram: something that may have a flux, sectors, regions, ...
+
+        sketch: something anamorphic.
+
+      axis: QUANTITATIVE. A graphic plot (like a curve, dots, surfaces, histograms, etc.).
+        1D: single linear bar kind.
+        2D: curvs, lines, etc.
+        3D: surfaces, patches, etc.
+        4D: cromatic surfaces.
+        
+    text: TODO
+      note: just some annotations about a topic.
+      reminder: something to take care of.
+      code: languages-dependent interpretations of text.
+      report: a simple or detailed plain-text-based report. Remember to specify origin
+      manual: text-based formal instructions for a specific program, service, tool, equipment, etc.
+      tutorial: non-formal text-based instructions for a specific program, service, tool, equipment, etc.
+      scribble: things flushed directly from the mind.
+
+    figure&text:
+      book: a physical material kept in a real place and not in a digital form.
+        chapter: books' chapter only (Introduction, ..., Results, Conlusion, References, ...).
+        item: books chapter's item only (4.5, 2.2.1.7):
+        paragraph: books' paragraph only.
+        passage: books' sentences only.
+
+      article: something very especific about a topic.
+
+      report+: More complex kind or report. Can show calculations or just constraints. May contain images and formatted text. pdf, jpg, ...
+
+      manual+: formal guide (for a specific program, service, tool, equipment, etc) probably not from the material's developer.
+
+      standard: technical instructions for various areas.
+        NBR:
+        ISO:
+        Eurocode:
+        DIN:
+
+      tutorial+: non-formal instructions for a specific program, service, tool, equipment, etc.
+
+      lesson+: may be almost as formal as documentation or manual (like lecture notes).
+
+      scribble+: things flushed directly from the mind.
+
+      brochure: (bro/chu/re). A pretty figure&text kind of informative document.
+
+      catalogue: (bro/chu/re). A pretty figure&text kind of products' inventory.
+
+      blueprint~: technical (by science or engineering).
+        electrical
+        structural
+        architectural
+        topographic
+        foundation
+
+      detailing: not a whole blueprint, but just details. May hold a few flowcharts, a few small calculations, ...
+
+      software:
+
+  audio:
+    voice:
+    song
+    sound
+      noise
+
+  visual&audio:
+    video:
+      movie:
+      YouTube:
+      internet:
+
+--------------------------------------------------------------------------
+ABSTRACT TYPES: content
+
+  definition: a technical explanation of a topic.
+    law: constitutional stuff.
+    engineering:
+    science:
+      biological:
+      physics:
+      computing:
+
+      engineering:
+        cirucuits:
+        iluminance:
+
+  propaganda:
+    commercial:
+    info:
+
+  chronicle: historical account of events arranged in order of time usually WITHOUT analysis or interpretation.
+
+  diary: historical account of events arranged in order of time usually WITH analysis or interpretation.
